@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Dangal",
+    "year": 2016,
+    "genre": "Biography, Drama, Sport",
+    "director": {
+      "name": "Nitesh Tiwari",
+      "dob": "1973-05-26"
+    },
+    "cast": [
+      {
+        "name": "Aamir Khan",
+        "role": "Mahavir Singh Phogat",
+        "dob": "1965-03-14"
+      },
+      {
+        "name": "Fatima Sana Shaikh",
+        "role": "Geeta Phogat",
+        "dob": "1992-01-11"
+      }
+    ],
+    "box_office": {
+      "budget": 70000000,
+      "gross": 2300000000
+    }
+  },
+  {
+    "title": "Baahubali: The Beginning",
+    "year": 2015,
+    "genre": "Action, Drama",
+    "director": {
+      "name": "S.S. Rajamouli",
+      "dob": "1973-10-10"
+    },
+    "cast": [
+      {
+        "name": "Prabhas",
+        "role": "Shivudu / Mahendra Baahubali",
+        "dob": "1979-10-23"
+      },
+      {
+        "name": "Rana Daggubati",
+        "role": "Bhallaladeva",
+        "dob": "1984-12-14"
+      }
+    ],
+    "box_office": {
+      "budget": 180000000,
+      "gross": 650000000
+    }
+  },
+  {
+    "title": "3 Idiots",
+    "year": 2009,
+    "genre": "Comedy, Drama",
+    "director": {
+      "name": "Rajkumar Hirani",
+      "dob": "1962-11-20"
+    },
+    "cast": [
+      {
+        "name": "Aamir Khan",
+        "role": "Rancho",
+        "dob": "1965-03-14"
+      },
+      {
+        "name": "R. Madhavan",
+        "role": "Farhan Qureshi",
+        "dob": "1970-06-01"
+      },
+      {
+        "name": "Sharman Joshi",
+        "role": "Raju Rastogi",
+        "dob": "1979-04-28"
+      }
+    ],
+    "box_office": {
+      "budget": 55000000,
+      "gross": 460000000
+    }
+  }
+]

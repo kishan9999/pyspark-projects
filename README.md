@@ -10,8 +10,6 @@ Welcome to my PySpark Projects repository! Here, you'll find a collection of pro
 - [About PySpark](#about-pyspark)
 - [Projects Overview](#projects-overview)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [References](#references)
 
 ## About PySpark ℹ️
 
@@ -19,15 +17,9 @@ PySpark is the Python API for Apache Spark, a fast and general-purpose cluster c
 
 ## Projects Overview 📊
 
-1. **Movie Data Analysis**: Dive into the world of movies with PySpark! Explore genres, ratings, and trends to uncover insights about viewer preferences and industry dynamics.
+**Movie Data Analysis**: Dive into the world of movies with PySpark! Explore genres, ratings, and trends to uncover insights about viewer preferences and industry dynamics.
 
-2. **Recommendation Engine**: Build a recommendation system using collaborative filtering techniques with PySpark. Discover hidden patterns in user preferences and provide personalized recommendations.
-
-3. **Predictive Modeling**: Utilize PySpark's machine learning library to train predictive models on movie data. Predict box office performance, user ratings, or genre classification with powerful algorithms.
 
 ## Getting Started 🚀
 
-To get started with these projects, make sure you have Apache Spark and PySpark installed on your system. You can install PySpark using pip:
-
-```bash
-pip install pyspark
+Pyspark 3.5.1
